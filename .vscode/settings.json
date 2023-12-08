@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "hashmap.h": "c",
+        "hashmapiterator.h": "c"
+    }
+}
